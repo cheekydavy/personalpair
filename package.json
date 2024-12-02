@@ -4,17 +4,17 @@
   "description": "simple pairing code example",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --name pair-example",
-    "stop": "pm2 stop pair-example",
+    "start": "pm2 start index.js --name pair",
+    "stop": "pm2 stop pair",
     "restart": "pm2 restart pair-example",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IRON-M4N/pair-example.git"
+    "url": "https://github.com/cheekydavy/personalpair.git"
   },
   "keywords": [],
-  "author": "IRON-M4N",
+  "author": "Mbuvi Tech",
   "license": "MIT",
   "dependencies": {
     "@types/node": "^18.0.6",
